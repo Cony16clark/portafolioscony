@@ -6,9 +6,13 @@
 body {
 background-color: purple;
 }
+h1 { 
+color: mediumpurple;
+}
 </style>
 </head> 
 <body> 
 <h1>tarea4</h1> 
+<p> haciendo nuestra primera pagina web </p>
 </body> 
-</html>
+</html>  
