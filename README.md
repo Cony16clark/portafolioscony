@@ -13,6 +13,7 @@ color: mediumpurple;
 </head> 
 <body> 
 <h1>tarea4</h1> 
+<img src="paginaweb.jpg">
 <p> haciendo nuestra primera pagina web </p>
 </body> 
 </html>  
